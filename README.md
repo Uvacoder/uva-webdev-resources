@@ -1,12 +1,10 @@
 # ⭐ Web Development Resources ⭐
 
-This is an awesome project about Web Development resources. ⚡
+This is an awesome project about [`Web Development Resources`](./) ⚡
 
 Resources are added frequently! ⚡
 
 Enjoy!
-
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
 
 ---
 
